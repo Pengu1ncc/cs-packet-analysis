@@ -1,0 +1,11 @@
+appdirs==1.4.4
+future==0.18.2
+javaobj-py3==0.2.4
+lxml==4.9.1
+packaging==21.3
+pefile==2022.5.30
+peutils==0.0.44
+py==1.11.0
+pycryptodome==3.16.0
+pyparsing==3.0.9
+pyshark==0.5.3
